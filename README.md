@@ -12,3 +12,16 @@ Telco Customer Churn dataset from Kaggle.
 - Seaborn
 - Scikit-learn
 - GitHub
+
+#Approach 
+Data Cleaning and preprocessing
+
+Exploratory Data Analysis
+
+Feature Encoding and Scaling
+
+Logistic Regression & Random Forest comparison
+
+Model selection based on Recall
+
+##Logistic Regression was selected due to better recall performance.
